@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">الصلوات الفائتة</string>
+    <string name="nav_today">اليوم</string>
+    <string name="nav_qada_backlog">سجل القضاء</string>
+    <string name="title_today_screen">متعقب الصلوات اليومية</string>
+    <string name="label_today">اليوم</string>
+    <string name="completed_count">%1$d / %2$d مكتملة</string>
+    <string name="section_daily_prayers">الصلوات اليومية</string>
+    <string name="rollover_explanation">الصلوات غير المحددة في نهاية اليوم سيتم نقلها تلقائياً إلى سجل الصلوات الفائتة.</string>
+
+    <string name="prayer_subh">الصبح (الفجر)</string>
+    <string name="time_dawn">الفجر</string>
+    <string name="prayer_dhuhr">الظهر</string>
+    <string name="time_noon">الظهر</string>
+    <string name="prayer_asr">العصر</string>
+    <string name="time_afternoon">العصر</string>
+    <string name="prayer_maghrib">المغرب</string>
+    <string name="time_sunset">المغرب</string>
+    <string name="prayer_isha">العشاء</string>
+    <string name="time_night">العشاء</string>
+
+    <string name="title_qada_screen">سجل القضاء</string>
+    <string name="total_missed_title">إجمالي الصلوات الفائتة</string>
+    <string name="qada_instruction">قم بتسجيل صلوات القضاء باستخدام زر الإنقاص، أو أضف الصلوات الفائتة.</string>
+    <string name="section_prayer_breakdowns">تفصيل الصلوات</string>
+    <string name="missed_count_format">%1$d فائتة</string>
+    <string name="cd_edit_count">تعديل العدد</string>
+    <string name="cd_decrement">قضاء صلاة واحدة</string>
+    <string name="cd_increment">إضافة صلاة فائتة</string>
+    <string name="dialog_set_qada_title">تعيين القضاء لـ %1$s</string>
+    <string name="label_exact_count">العدد الدقيق</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">إلغاء</string>
+</resources>
